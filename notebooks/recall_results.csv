@@ -1,0 +1,10 @@
+Model,Best Hyperparameters,Accuracy,Precision,Recall,F1-score,Validation Errors
+Logistic Regression,"{'C': 0.001, 'class_weight': {0: 1, 1: 2}, 'penalty': 'l1'}",0.539746413,0.525079783,0.956495452,0.675948154,0.048558918
+Random Forest,"{'class_weight': {0: 1, 1: 2}, 'max_depth': 5, 'n_estimators': 200}",0.608628078,0.567714539,0.910585084,0.699380669,0.00653474
+SVM_linear,"{'C': 0.01, 'class_weight': {0: 1, 1: 2}}",0.606815973,0.567657097,0.896087073,0.695003628,0.005887462
+SVM_poly,"{'C': 0.001, 'class_weight': {0: 1, 1: 2}, 'degree': 2}",0.5,0.5,1,0.666666623,0.00027022
+SVM_rbf,"{'C': 0.001, 'class_weight': {0: 1, 1: 2}, 'gamma': 'scale'}",0.5,0.5,1,0.666666623,0.00027022
+SVM_sigmoid,"{'C': 0.001, 'class_weight': {0: 1, 1: 2}, 'gamma': 'scale'}",0.5,0.5,1,0.666666623,0.00027022
+Gradient Boosting,"{'learning_rate': 0.01, 'n_estimators': 100}",0.677019353,0.671148917,0.695016619,0.682712399,0.007959408
+KNN,"{'n_neighbors': 7, 'weights': 'distance'}",0.672787629,0.687277449,0.634365818,0.65967558,0.00514973
+Naive Bayes,{},0.636055796,0.76056628,0.397293635,0.521890913,0.006930302
