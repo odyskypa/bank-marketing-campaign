@@ -47,5 +47,5 @@ Project of Advanced Machine Learning (AML) Course for the Master in Data Science
 
 ## Executed Notebooks
 The following two `html` files, present the notebooks of the project executed.
-* `EDA-feature-extraction.html`
-* `Modeling.html`
+* `01.EDA-feature-extraction.html`
+* `02.Experiments.html`
