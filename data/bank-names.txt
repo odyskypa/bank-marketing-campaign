@@ -9,7 +9,7 @@ Citation Request:
                 [bib] http://www3.dsi.uminho.pt/pcortez/bib/2011-esm-1.txt
 
 1. Title: Bank Marketing
-
+ 
 2. Sources
    Created by: Paulo Cortez (Univ. Minho) and Sérgio Moro (ISCTE-IUL) @ 2012
    
