@@ -10,6 +10,8 @@ Project of Advanced Machine Learning (AML) Course for the Master in Data Science
 		* This notebook generates in the end the updated dataset (named `bank_marketing_new.csv`, under `notebooks` directory), which includes all the changes introduced during **EDA**.
 		* The new file (`bank_marketing_new.csv`) is being used from the second notebook in order to complete the modeling part.
 	* `02.Experiments.ipynb`
+        * `03. Modelling.ipynb`
+                * In this notebook we have the main model executions, which we include in the results table of the report. It contains a data loading and several hyperparametrization executions on full and undersampled training set. 
 * Both notebooks generate some extra **csv** files, containing information used during the analysis
 	* E.g.: `chi-2.csv`, `accuracy_results.csv`, and `recall_results.csv` files mentioned in the report are generated during the execution of the above-mentioned notebooks. They can also be found in this repository.
 * Uncomment the first cell of the notebooks in order to install missing libraries.
