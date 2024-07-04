@@ -1,4 +1,4 @@
-# aml-bank-marketing-campaing
+# Bank Marketing Campaign
 Project of Advanced Machine Learning (AML) Course for the Master in Data Science Program of Universitat Politècnica de Catalunya (UPC)
 
 ## Instructions for Executing Analysis Notebooks
